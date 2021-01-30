@@ -17,8 +17,8 @@
 Após seguir os passos acima, digite `pyenv --version` e verifique se a instalação foi feita corretamente.
 
 #### Mais informações:
-[Windows](https://pypi.org/project/pyenv-win/)
-[Linux](https://github.com/pyenv/pyenv-installer)
+[Windows](https://pypi.org/project/pyenv-win/)  
+[Linux](https://github.com/pyenv/pyenv-installer)  
 [Projeto do Pyenv](https://github.com/pyenv/pyenv)
 
 Para listar as versões do python `pyenv install -l` e para instalar `pyenv install <versao>`.
@@ -32,5 +32,5 @@ Ativar ambiente virtual `pyenv activate <nome_do_ambiente>`.
 Sair do ambiente virtual `pyenv deactivate`.
 
 # Pycharm
-[Instalação](https://www.jetbrains.com/help/pycharm/installation-guide.html)
+[Instalação](https://www.jetbrains.com/help/pycharm/installation-guide.html)  
 [Instalação em pt-BR](https://www.jetbrains.com/pt-br/pycharm/download/#section=linux)
